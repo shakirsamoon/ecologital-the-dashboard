@@ -8,12 +8,14 @@ npm install
 npm run server
 
 ```
+Server starts on http://localhost:5000/
 
 2. Go to `app` and run
 ```
 npm install
 npm start
 ```
+App starts on http://localhost:3000/
 
 ---
 
