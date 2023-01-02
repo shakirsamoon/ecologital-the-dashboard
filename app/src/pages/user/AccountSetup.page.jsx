@@ -78,7 +78,7 @@ function AccountSetupPage() {
               <Typography.Title level={3} style={{ marginBottom: '30px' }}>
                 Welcome to The Dashboard,
                 <br />
-                James Bond.
+                {currentUser?.name}
               </Typography.Title>
 
               <Typography.Paragraph
