@@ -1,4 +1,4 @@
-const serverURL = 'http://127.0.0.1:5000/api';
+const serverURL = 'http://localhost:5000/api';
 
 const API_PATHS={
   LOGIN_USER:`${serverURL}/user/login`,
